@@ -8,6 +8,6 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>2.1</artifactId>
     <packaging>maven-plugin</packaging>
-    <name>srp Maven Mojo</name>
+    <name>code-design-2.1</name>
     <url>http://maven.apache.org</url>
 </project>

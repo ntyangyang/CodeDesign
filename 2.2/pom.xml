@@ -8,6 +8,6 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>2.2</artifactId>
     <packaging>maven-plugin</packaging>
-    <name>ocp Maven Mojo</name>
+    <name>code-design-2.2</name>
     <url>http://maven.apache.org</url>
 </project>
